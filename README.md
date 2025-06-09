@@ -12,6 +12,16 @@ Then, run the dev:
 npm run dev
 ```
 
+Third,install Dependency
+```bash
+npm install -D @shadcn/ui
+npx shadcn add button
+npx shadcn add input
+npx shadcn add checkbox
+npx shadcn add card
+npm install lucide-react
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Learn More
